@@ -13,7 +13,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - JavaScript
 
 ## 🔗 Live Demo
-https://github.com/YashHon1/calculator-project/settings/pages
+https://yashhon1.github.io/calculator-project/
 
 ## 💻 GitHub Repository
 https://github.com/YashHon1
